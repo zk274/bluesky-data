@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "TEST-001",
+        "owner_name": "John Doe",
+        "property_address": "123 Main St, Gulfport, MS",
+        "mailing_address": "123 Main St, Gulfport, MS 39501",
+        "assessed_value": 120000,
+        "land_use": "Residential"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-89.092, 30.367],
+          [-89.0915, 30.367],
+          [-89.0915, 30.3675],
+          [-89.092, 30.3675],
+          [-89.092, 30.367]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "TEST-002",
+        "owner_name": "Jane Smith",
+        "property_address": "456 Oak Ave, Gulfport, MS",
+        "mailing_address": "PO Box 123, Gulfport, MS 39501",
+        "assessed_value": 95000,
+        "land_use": "Residential"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-89.095, 30.369],
+          [-89.0945, 30.369],
+          [-89.0945, 30.3695],
+          [-89.095, 30.3695],
+          [-89.095, 30.369]
+        ]]
+      }
+    }
+  ]
+}
