@@ -1,0 +1,487 @@
+{
+  "type": "parcel_chunk_index",
+  "source": "harrison_county_parcels_v1_min.geojson",
+  "total_parcels": 108901,
+  "chunk_count": 43,
+  "overall_bbox": [
+    -89.34152,
+    30.205019,
+    -88.805349,
+    30.677621
+  ],
+  "chunks": [
+    {
+      "chunk_name": "parcels_r00_c02",
+      "bbox": [
+        -89.153547,
+        30.205019,
+        -89.07356,
+        30.232084
+      ],
+      "file_path": "chunks/parcels_r00_c02.geojson",
+      "parcel_count": 31
+    },
+    {
+      "chunk_name": "parcels_r00_c03",
+      "bbox": [
+        -89.076547,
+        30.225394,
+        -89.064967,
+        30.250723
+      ],
+      "file_path": "chunks/parcels_r00_c03.geojson",
+      "parcel_count": 2
+    },
+    {
+      "chunk_name": "parcels_r00_c04",
+      "bbox": [
+        -88.98637,
+        30.207226,
+        -88.890713,
+        30.233717
+      ],
+      "file_path": "chunks/parcels_r00_c04.geojson",
+      "parcel_count": 3
+    },
+    {
+      "chunk_name": "parcels_r00_c05",
+      "bbox": [
+        -88.8921,
+        30.232026,
+        -88.805349,
+        30.267047
+      ],
+      "file_path": "chunks/parcels_r00_c05.geojson",
+      "parcel_count": 2
+    },
+    {
+      "chunk_name": "parcels_r01_c00_p01",
+      "bbox": [
+        -89.295011,
+        30.303192,
+        -89.250112,
+        30.337038
+      ],
+      "file_path": "chunks/parcels_r01_c00_p01.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r01_c00_p02",
+      "bbox": [
+        -89.34152,
+        30.333712,
+        -89.248279,
+        30.399335
+      ],
+      "file_path": "chunks/parcels_r01_c00_p02.geojson",
+      "parcel_count": 2736
+    },
+    {
+      "chunk_name": "parcels_r01_c01_p01",
+      "bbox": [
+        -89.256868,
+        30.310431,
+        -89.161428,
+        30.343378
+      ],
+      "file_path": "chunks/parcels_r01_c01_p01.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r01_c01_p02",
+      "bbox": [
+        -89.25943,
+        30.339301,
+        -89.161696,
+        30.364003
+      ],
+      "file_path": "chunks/parcels_r01_c01_p02.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r01_c01_p03",
+      "bbox": [
+        -89.256746,
+        30.358217,
+        -89.161737,
+        30.394939
+      ],
+      "file_path": "chunks/parcels_r01_c01_p03.geojson",
+      "parcel_count": 3438
+    },
+    {
+      "chunk_name": "parcels_r01_c02_p01",
+      "bbox": [
+        -89.164498,
+        30.33985,
+        -89.082129,
+        30.366166
+      ],
+      "file_path": "chunks/parcels_r01_c02_p01.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r01_c02_p02",
+      "bbox": [
+        -89.16284,
+        30.36149,
+        -89.069291,
+        30.376591
+      ],
+      "file_path": "chunks/parcels_r01_c02_p02.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r01_c02_p03",
+      "bbox": [
+        -89.163267,
+        30.369212,
+        -89.073062,
+        30.395613
+      ],
+      "file_path": "chunks/parcels_r01_c02_p03.geojson",
+      "parcel_count": 3426
+    },
+    {
+      "chunk_name": "parcels_r01_c03",
+      "bbox": [
+        -89.073933,
+        30.371936,
+        -88.983968,
+        30.395942
+      ],
+      "file_path": "chunks/parcels_r01_c03.geojson",
+      "parcel_count": 5176
+    },
+    {
+      "chunk_name": "parcels_r01_c04",
+      "bbox": [
+        -88.984392,
+        30.387592,
+        -88.894478,
+        30.39627
+      ],
+      "file_path": "chunks/parcels_r01_c04.geojson",
+      "parcel_count": 275
+    },
+    {
+      "chunk_name": "parcels_r01_c05",
+      "bbox": [
+        -88.894481,
+        30.360108,
+        -88.818214,
+        30.39482
+      ],
+      "file_path": "chunks/parcels_r01_c05.geojson",
+      "parcel_count": 240
+    },
+    {
+      "chunk_name": "parcels_r02_c00",
+      "bbox": [
+        -89.34149,
+        30.391493,
+        -89.247879,
+        30.489749
+      ],
+      "file_path": "chunks/parcels_r02_c00.geojson",
+      "parcel_count": 2342
+    },
+    {
+      "chunk_name": "parcels_r02_c01",
+      "bbox": [
+        -89.256838,
+        30.392348,
+        -89.157253,
+        30.490695
+      ],
+      "file_path": "chunks/parcels_r02_c01.geojson",
+      "parcel_count": 3254
+    },
+    {
+      "chunk_name": "parcels_r02_c02_p01",
+      "bbox": [
+        -89.170462,
+        30.391166,
+        -89.069356,
+        30.434775
+      ],
+      "file_path": "chunks/parcels_r02_c02_p01.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r02_c02_p02",
+      "bbox": [
+        -89.162954,
+        30.428983,
+        -89.071896,
+        30.456846
+      ],
+      "file_path": "chunks/parcels_r02_c02_p02.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r02_c02_p03",
+      "bbox": [
+        -89.169837,
+        30.453017,
+        -89.073046,
+        30.47393
+      ],
+      "file_path": "chunks/parcels_r02_c02_p03.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r02_c02_p04",
+      "bbox": [
+        -89.16277,
+        30.470765,
+        -89.07326,
+        30.489511
+      ],
+      "file_path": "chunks/parcels_r02_c02_p04.geojson",
+      "parcel_count": 1965
+    },
+    {
+      "chunk_name": "parcels_r02_c03_p01",
+      "bbox": [
+        -89.082404,
+        30.392628,
+        -88.98379,
+        30.420322
+      ],
+      "file_path": "chunks/parcels_r02_c03_p01.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r02_c03_p02",
+      "bbox": [
+        -89.074825,
+        30.404449,
+        -88.983531,
+        30.446436
+      ],
+      "file_path": "chunks/parcels_r02_c03_p02.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r02_c03_p03",
+      "bbox": [
+        -89.074202,
+        30.442576,
+        -88.983593,
+        30.471548
+      ],
+      "file_path": "chunks/parcels_r02_c03_p03.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r02_c03_p04",
+      "bbox": [
+        -89.074141,
+        30.46418,
+        -88.983311,
+        30.48983
+      ],
+      "file_path": "chunks/parcels_r02_c03_p04.geojson",
+      "parcel_count": 3879
+    },
+    {
+      "chunk_name": "parcels_r02_c04_p01",
+      "bbox": [
+        -88.984509,
+        30.391911,
+        -88.894479,
+        30.407913
+      ],
+      "file_path": "chunks/parcels_r02_c04_p01.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r02_c04_p02",
+      "bbox": [
+        -88.984667,
+        30.398132,
+        -88.894401,
+        30.439673
+      ],
+      "file_path": "chunks/parcels_r02_c04_p02.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r02_c04_p03",
+      "bbox": [
+        -88.984865,
+        30.431925,
+        -88.893533,
+        30.475426
+      ],
+      "file_path": "chunks/parcels_r02_c04_p03.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r02_c04_p04",
+      "bbox": [
+        -88.9849,
+        30.471852,
+        -88.893725,
+        30.490281
+      ],
+      "file_path": "chunks/parcels_r02_c04_p04.geojson",
+      "parcel_count": 1416
+    },
+    {
+      "chunk_name": "parcels_r02_c05_p01",
+      "bbox": [
+        -88.894776,
+        30.393361,
+        -88.857385,
+        30.42636
+      ],
+      "file_path": "chunks/parcels_r02_c05_p01.geojson",
+      "parcel_count": 4000
+    },
+    {
+      "chunk_name": "parcels_r02_c05_p02",
+      "bbox": [
+        -88.89776,
+        30.423722,
+        -88.88317,
+        30.490366
+      ],
+      "file_path": "chunks/parcels_r02_c05_p02.geojson",
+      "parcel_count": 2060
+    },
+    {
+      "chunk_name": "parcels_r03_c00",
+      "bbox": [
+        -89.341475,
+        30.486742,
+        -89.25049,
+        30.589097
+      ],
+      "file_path": "chunks/parcels_r03_c00.geojson",
+      "parcel_count": 819
+    },
+    {
+      "chunk_name": "parcels_r03_c01",
+      "bbox": [
+        -89.256931,
+        30.485332,
+        -89.158611,
+        30.58904
+      ],
+      "file_path": "chunks/parcels_r03_c01.geojson",
+      "parcel_count": 3175
+    },
+    {
+      "chunk_name": "parcels_r03_c02",
+      "bbox": [
+        -89.170259,
+        30.485416,
+        -89.067668,
+        30.58877
+      ],
+      "file_path": "chunks/parcels_r03_c02.geojson",
+      "parcel_count": 4578
+    },
+    {
+      "chunk_name": "parcels_r03_c03",
+      "bbox": [
+        -89.075661,
+        30.485897,
+        -88.983249,
+        30.588956
+      ],
+      "file_path": "chunks/parcels_r03_c03.geojson",
+      "parcel_count": 2009
+    },
+    {
+      "chunk_name": "parcels_r03_c04",
+      "bbox": [
+        -88.985138,
+        30.486308,
+        -88.891073,
+        30.588832
+      ],
+      "file_path": "chunks/parcels_r03_c04.geojson",
+      "parcel_count": 3602
+    },
+    {
+      "chunk_name": "parcels_r03_c05",
+      "bbox": [
+        -88.900906,
+        30.487494,
+        -88.88346,
+        30.588769
+      ],
+      "file_path": "chunks/parcels_r03_c05.geojson",
+      "parcel_count": 84
+    },
+    {
+      "chunk_name": "parcels_r04_c00",
+      "bbox": [
+        -89.341245,
+        30.581653,
+        -89.250542,
+        30.647587
+      ],
+      "file_path": "chunks/parcels_r04_c00.geojson",
+      "parcel_count": 255
+    },
+    {
+      "chunk_name": "parcels_r04_c01",
+      "bbox": [
+        -89.263404,
+        30.581005,
+        -89.154315,
+        30.677132
+      ],
+      "file_path": "chunks/parcels_r04_c01.geojson",
+      "parcel_count": 955
+    },
+    {
+      "chunk_name": "parcels_r04_c02",
+      "bbox": [
+        -89.164841,
+        30.579078,
+        -89.069693,
+        30.67705
+      ],
+      "file_path": "chunks/parcels_r04_c02.geojson",
+      "parcel_count": 2060
+    },
+    {
+      "chunk_name": "parcels_r04_c03",
+      "bbox": [
+        -89.078238,
+        30.581247,
+        -88.983291,
+        30.677264
+      ],
+      "file_path": "chunks/parcels_r04_c03.geojson",
+      "parcel_count": 837
+    },
+    {
+      "chunk_name": "parcels_r04_c04",
+      "bbox": [
+        -88.985537,
+        30.584862,
+        -88.892518,
+        30.677621
+      ],
+      "file_path": "chunks/parcels_r04_c04.geojson",
+      "parcel_count": 253
+    },
+    {
+      "chunk_name": "parcels_r04_c05",
+      "bbox": [
+        -88.901142,
+        30.588598,
+        -88.884002,
+        30.67762
+      ],
+      "file_path": "chunks/parcels_r04_c05.geojson",
+      "parcel_count": 29
+    }
+  ]
+}
